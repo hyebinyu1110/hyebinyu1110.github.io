@@ -39,9 +39,31 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hyebinyu1110@gmail.com"
+  email: "hyebinyu1110@gamil.com"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: 
   github: hyebinyu1110
-
+  twitter: 
+  patreon: 
+  youtube: 
+#  medium: 
+#  reddit: 
+#  linkedin: 
+#  xing: 
+#  stackoverflow: 
+#  snapchat: 
+#  instagram: 
+#  spotify: 
+#  telephone:
+#  steam: 
+#  twitch: 
+#  yelp: 
+#  telegram: 
+#  calendly: 
+#  mastodon: 
+#  ORCID: 
+#  google-scholar: 
+#  discord: 
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -184,6 +206,8 @@ footer-hover-col: "#0085A1"
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
 
+# Facebook App ID
+#fb_app_id: ""
 
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
